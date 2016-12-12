@@ -1,0 +1,14 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.user.peersfinder.PeersFinderActivity">
+    <item
+        android:id="@+id/action_search_peers"
+        android:orderInCategory="100"
+        android:title="@string/action_search_peers"
+        app:showAsAction="never" />
+    <item
+        android:title="Restart WiFi Interface"
+        android:id="@+id/action_restart_wifi_interface"
+        android:showAsAction="never" />
+</menu>

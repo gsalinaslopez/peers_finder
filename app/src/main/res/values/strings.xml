@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Peers finder</string>
+    <string name="action_search_peers">Search peers</string>
+</resources>
